@@ -12,7 +12,7 @@ La décomposition en éléments simples se présente en effet sous la forme
 
 $$H(z)=\sum_{k=0}^{K-1} \dfrac{A_k}{1-Z_kz^{-1}}$$
 
-Par ailleurs, le tracé de $h(n)$ peut simplement être obtenu en appliquant une entrée $\delta(n)$ (impulsion numérique) à la fonction de transfert $H(z)$.
+Par ailleurs, le tracé de $h(n)$ peut simplement être obtenu en appliquant une entrée $\delta(n)$ (impulsion numérique qui vaut 1 pour $n=0$ et 0 sinon) à la fonction de transfert $H(z)$.
 
 ## Le Notebook
 
