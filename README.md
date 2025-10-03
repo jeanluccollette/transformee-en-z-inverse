@@ -6,6 +6,8 @@ On considère $H(z)$ une transformée en $z$ qui se présente sous la forme d'un
 
 $$h(n)=\sum_{k=0}^{K-1} A_k \times Z_k^n$$
 
+lorsque les $K$ pôles $Z_k$ sont tous d'ordre de multiplicité égal à 1.
+
 ## Le Notebook
 
 Le [Notebook](tzinv.ipynb) est disponible sur ce dépôt.
