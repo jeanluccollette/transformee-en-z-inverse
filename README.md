@@ -4,7 +4,7 @@
 
 On considère $H(z)$ une transformée en $z$ qui se présente sous la forme d'une fraction rationnelle en $z^{-1}$ et on recherche la séquence temporelle $h(n)$ associée. Sur un exemple traité, on accèdera à la solution sous la forme
 
-$$h(n)=\sum_{k=0}^{K-1} A_k*Z_k^n$$
+$$h(n)=\sum_{k=0}^{K-1} A_k \times Z_k^n$$
 
 ## Le Notebook
 
