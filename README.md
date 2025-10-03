@@ -2,7 +2,9 @@
 
 ## Principe
 
-On considère $H(z)$ une transformée en $z$ qui se présente sous la forme d'une fraction rationnelle en $z^{-1}$ et on recherche la séquence temporelle $h(n)$ associée.
+On considère $H(z)$ une transformée en $z$ qui se présente sous la forme d'une fraction rationnelle en $z^{-1}$ et on recherche la séquence temporelle $h(n)$ associée. Sur un exemple traité, on accèdera à la solution sous la forme
+
+$$h(n)=\sigma_k=0^K A_k*Z_k^n$$
 
 ## Le Notebook
 
