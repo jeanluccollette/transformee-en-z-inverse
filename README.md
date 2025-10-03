@@ -10,7 +10,9 @@ lorsque les $K$ pôles $Z_k$ sont tous d'ordre de multiplicité égal à 1.
 
 La décomposition en éléments simples se présente en effet sous la forme
 
-$$\sum_{k=0}^{K-1} \dfrac{A_k}{1-Z_kz^{-1}}$$
+$$H(z)=\sum_{k=0}^{K-1} \dfrac{A_k}{1-Z_kz^{-1}}$$
+
+Par ailleurs, le tracé de $h(n)$ peut simplement être obtenu en appliquant une entrée $\delta(n)$ (impulsion numérique) à la fonction de transfert $H(z)$.
 
 ## Le Notebook
 
