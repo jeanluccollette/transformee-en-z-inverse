@@ -12,4 +12,4 @@ lorsque les $K$ pôles $Z_k$ sont tous d'ordre de multiplicité égal à 1.
 
 Le [Notebook](tzinv.ipynb) est disponible sur ce dépôt.
 
-Par ailleurs, on peut disposer aussi de [la version disponible sur Google Colab](https://colab.research.google.com/drive/1SX8pW15GO1v-1lPUa5QzlkLz-NX1Wcjw?usp=drive_link).
+Par ailleurs, on peut disposer aussi de [la version sur Google Colab](https://colab.research.google.com/drive/1SX8pW15GO1v-1lPUa5QzlkLz-NX1Wcjw?usp=drive_link).
