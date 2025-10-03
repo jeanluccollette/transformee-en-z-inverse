@@ -8,6 +8,10 @@ $$h(n)=\sum_{k=0}^{K-1} A_k \times Z_k^n$$
 
 lorsque les $K$ pôles $Z_k$ sont tous d'ordre de multiplicité égal à 1.
 
+La décomposition en éléments simples se présente en effet sous la forme
+
+$$\sum_{k=0}^{K-1} \dfrac{A_k}{1-Z_kz^{-1}}$$
+
 ## Le Notebook
 
 Le [Notebook](tzinv.ipynb) est disponible sur ce dépôt.
