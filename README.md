@@ -34,7 +34,7 @@ Par ailleurs, on peut disposer aussi de [la version sur Google Colab](https://co
 
 ## Annexe
 
-La raison pour laquelle on envisage d'utiliser plutôt des expressions en $z^{-1}$ est liée au fait qu'elles permettent d'accéder facilement à l'équation aux différence dans le domaine temporel.
+La raison pour laquelle on envisage d'utiliser plutôt des expressions en $z^{-1}$ est liée au fait qu'elles permettent notamment d'accéder facilement à l'équation aux différence dans le domaine temporel.
 
 Pour une fonction de transfert $H(z)$ de la forme
 
