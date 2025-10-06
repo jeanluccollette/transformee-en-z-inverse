@@ -14,8 +14,10 @@ $$H(z)=\sum_{k=0}^{K-1} \dfrac{A_k}{1-P_kz^{-1}}$$
 
 Par ailleurs, le tracé de $h(n)$ peut simplement être obtenu en appliquant une entrée $\delta(n)$ (impulsion numérique qui vaut $1$ pour $n=0$ et $0$ sinon) à la fonction de transfert $H(z)$.
 
-## Le Notebook
+## Les Notebooks
 
-Le [Notebook](tzinv_ordre1.ipynb) est disponible sur ce dépôt.
+Le [Notebook](tzinv_ordre1.ipynb) pour les pôles d'ordre 1 est disponible sur ce dépôt.
+
+Le [Notebook](tzinv_ordre2.ipynb) pour les pôles d'ordre 1 ou 2 est disponible sur ce dépôt.
 
 Par ailleurs, on peut disposer aussi de [la version sur Google Colab](https://colab.research.google.com/drive/1SX8pW15GO1v-1lPUa5QzlkLz-NX1Wcjw?usp=drive_link).
