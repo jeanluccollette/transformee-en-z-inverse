@@ -34,6 +34,14 @@ Par ailleurs, on peut disposer aussi de [la version sur Google Colab](https://co
 
 ## Annexe
 
+La raison pour laquelle on envisage d'utiliser des expressions en $z^{-1}$ est liée au fait qu'elles permettent d'accéder facilement à l'équation aux différence dans le domaine temporel.
+
+Pour une fonction de transfert $H(z)$ de la forme
+
 $$H(z)=\dfrac{\sum_{m=0}^{M}b_mz^{-m}}{1+\sum_{k=1}^{K}a_kz^{-k}}=\dfrac{Y(z)}{X(z)}$$
 
+l'équation aux différence associée est (avec $x(n-m)=0$ pour $n-m<0$ et y(n-k)=0 pour $n-k<0$)
+
 $$y(n) = \sum_{m=0}^{M}b_mx(n-m) - \sum_{k=1}^{K}a_ky(n-k)$$
+
+C'est l'équation mise en oeuvre par la fonction **lfilter** de scipy.
