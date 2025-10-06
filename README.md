@@ -40,7 +40,7 @@ Pour une fonction de transfert $H(z)$ de la forme
 
 $$H(z)=\dfrac{\sum_{m=0}^{M}b_mz^{-m}}{1+\sum_{k=1}^{K}a_kz^{-k}}=\dfrac{Y(z)}{X(z)}$$
 
-l'équation aux différence associée est (avec $x(n-m)=0$ pour $n-m<0$ et y(n-k)=0 pour $n-k<0$)
+l'équation aux différence associée est (avec $x(n-m)=0$ pour $n-m<0$ et $y(n-k)=0$ pour $n-k<0$)
 
 $$y(n) = \sum_{m=0}^{M}b_mx(n-m) - \sum_{k=1}^{K}a_ky(n-k)$$
 
