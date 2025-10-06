@@ -16,7 +16,7 @@ Par ailleurs, le tracé de $h(n)$ peut simplement être obtenu en appliquant une
 
 Par extension, les pôles d'ordre 2 peuvent aussi être traités. Un pôle $P_z$ d'ordre 2 est associé au terme ci-dessous dans $h(n)$.
 
-$$(n+1) \times A_{k2} \times P_k^n + A_{k1} \times P_k^n$$
+$$A_{k2} \times (n+1) \times P_k^n + A_{k1} \times P_k^n$$
 
 Il correspond au terme ci-dessous dans la décomposition en élément simple de $H(z)$.
 
