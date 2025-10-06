@@ -44,4 +44,4 @@ l'équation aux différence associée est (avec $x(n-m)=0$ pour $n-m<0$ et y(n-k
 
 $$y(n) = \sum_{m=0}^{M}b_mx(n-m) - \sum_{k=1}^{K}a_ky(n-k)$$
 
-C'est l'équation mise en oeuvre par la fonction **lfilter** de scipy.
+C'est l'équation mise en oeuvre par la fonction [**lfilter**](https://docs.scipy.org/doc/scipy/reference/generated/scipy.signal.lfilter.html) de scipy.
