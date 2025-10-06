@@ -31,3 +31,7 @@ Par ailleurs, on peut disposer aussi de [la version sur Google Colab](https://co
 Le [Notebook](tzinv_ordre2.ipynb) pour les pôles d'ordre 1 ou 2 est disponible sur ce dépôt.
 
 Par ailleurs, on peut disposer aussi de [la version sur Google Colab](https://colab.research.google.com/drive/1-FxWG_sAFUHAgCftML5VYthL1JakQ7O5?usp=drive_link).
+
+## Annexe
+
+$$H(z)=\dfrac{\sum_{n=0}^{N}b_nz^{-n}}{1+\sum_{k=1}^{K}a_kz^{-k}}$$
