@@ -18,6 +18,8 @@ Par ailleurs, le tracé de $h(n)$ peut simplement être obtenu en appliquant une
 
 Le [Notebook](tzinv_ordre1.ipynb) pour les pôles d'ordre 1 est disponible sur ce dépôt.
 
+Par ailleurs, on peut disposer aussi de [la version sur Google Colab](https://colab.research.google.com/drive/1apsHT_S6EJ6aIAlqmrPvxvE24gnwubkB?usp=drive_link).
+
 Le [Notebook](tzinv_ordre2.ipynb) pour les pôles d'ordre 1 ou 2 est disponible sur ce dépôt.
 
-Par ailleurs, on peut disposer aussi de [la version sur Google Colab](https://colab.research.google.com/drive/1SX8pW15GO1v-1lPUa5QzlkLz-NX1Wcjw?usp=drive_link).
+Par ailleurs, on peut disposer aussi de [la version sur Google Colab](https://colab.research.google.com/drive/1-FxWG_sAFUHAgCftML5VYthL1JakQ7O5?usp=drive_link).
