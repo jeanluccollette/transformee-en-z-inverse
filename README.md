@@ -34,6 +34,6 @@ Par ailleurs, on peut disposer aussi de [la version sur Google Colab](https://co
 
 ## Annexe
 
-$$H(z)=\dfrac{\sum_{l=0}^{L}b_lz^{-l}}{1+\sum_{k=1}^{K}a_kz^{-k}}=\dfrac{Y(z)}{X(z)}$$
+$$H(z)=\dfrac{\sum_{m=0}^{M}b_mz^{-m}}{1+\sum_{k=1}^{K}a_kz^{-k}}=\dfrac{Y(z)}{X(z)}$$
 
-$$y(n) = \sum_{l=0}^{L}b_lx(n-l) - \sum_{k=1}^{K}a_ky(n-k)$$
+$$y(n) = \sum_{m=0}^{M}b_mx(n-m) - \sum_{k=1}^{K}a_ky(n-k)$$
