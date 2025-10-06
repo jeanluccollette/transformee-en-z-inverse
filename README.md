@@ -16,7 +16,9 @@ Par ailleurs, le tracé de $h(n)$ peut simplement être obtenu en appliquant une
 
 Par extension, les pôles d'ordre 2 peuvent aussi être traités. Un pôle $P_z$ d'ordre 2 est associé au terme ci-dessous dans $h(n)$.
 
-$$(n+1) \times A_k2 \times P_k^n + A_k1 \times P_k^n$$
+$$(n+1) \times A_{k2} \times P_k^n + A_{k1} \times P_k^n$$
+
+$$\dfrac{A_k2}{(1-P_kz^{-1})^2} + \dfrac{A_k1}{1-P_kz^{-1}}$$
 
 ## Les Notebooks
 
