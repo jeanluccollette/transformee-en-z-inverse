@@ -18,7 +18,9 @@ Par extension, les pôles d'ordre 2 peuvent aussi être traités. Un pôle $P_z$
 
 $$(n+1) \times A_{k2} \times P_k^n + A_{k1} \times P_k^n$$
 
-$$\dfrac{A_k2}{(1-P_kz^{-1})^2} + \dfrac{A_k1}{1-P_kz^{-1}}$$
+Il correspond au terme ci-dessous dans la décomposition en élément simple de $H(z)$.
+
+$$\dfrac{A_{k2}}{(1-P_kz^{-1})^2} + \dfrac{A_{k1}}{1-P_kz^{-1}}$$
 
 ## Les Notebooks
 
