@@ -14,7 +14,7 @@ $$H(z)=\sum_{k=0}^{K-1} \dfrac{A_k}{1-P_kz^{-1}}$$
 
 Par ailleurs, le tracé de $h(n)$ peut simplement être obtenu en appliquant une entrée $\delta(n)$ (impulsion numérique qui vaut $1$ pour $n=0$ et $0$ sinon) à la fonction de transfert $H(z)$.
 
-Par extension, les pôles d'ordre 2 peuvent aussi être traités. Un pôle $P_z$ d'ordre 2 est associé au terme ci-dessous dans $h(n)$.
+Par extension, les pôles d'ordre 2 peuvent aussi être traités. Un pôle $P_k$ d'ordre 2 est associé au terme ci-dessous dans $h(n)$.
 
 $$A_{k2} \times (n+1) \times P_k^n + A_{k1} \times P_k^n$$
 
