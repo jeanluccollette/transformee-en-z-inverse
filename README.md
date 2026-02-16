@@ -30,7 +30,7 @@ Le changement de variable envisagé dans cette méthode est plutôt de la forme 
 
 $$H(z)=\sum_{k=0}^{K-1} \sum_{m=1}^{M_k} \dfrac{A_{k,m}}{(1-P_kz^{-1})^m}$$
 
-avec $M_k$ qui est l'ordre de multiplcité du pôle $P_k$ dans l'expression de $H(z)$ sous forme de fraction rationnelle en $z^{-1}$.
+avec $M_k$ qui est l'ordre de multiplicité du pôle $P_k$ dans l'expression de $H(z)$ sous forme de fraction rationnelle en $z^{-1}$.
 
 ## Conjecture utilisée
 
