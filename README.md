@@ -22,6 +22,10 @@ Il correspond au terme ci-dessous dans la décomposition en élément simple de 
 
 $$\dfrac{A_{k,2}}{(1-P_kz^{-1})^2} + \dfrac{A_{k,1}}{1-P_kz^{-1}}$$
 
+## Méthode utilisée
+
+https://fr.wikipedia.org/wiki/D%C3%A9composition_en_%C3%A9l%C3%A9ments_simples#%C3%89l%C3%A9ments_simples_associ%C3%A9s_%C3%A0_un_p%C3%B4le_multiple
+
 ## Le Notebook
 
 Le [Notebook](tzinv.ipynb) pour les pôles d'ordre 1 ou 2 est disponible sur ce dépôt.
