@@ -40,11 +40,11 @@ Par ailleurs, on peut disposer aussi de [la version sur Google Colab](https://co
 
 La séquence $h(n)$ associé au terme
 
-$$\dfrac{A_{k,M}}{(1-P_k z^{-1})^m}$$
+$$\dfrac{A_{k,m}}{(1-P_k z^{-1})^m}$$
 
-pour $M \geq 2$ est
+pour $m \geq 2$ est
 
-$$h(n)=A_{k,M}\left[\dfrac{\prod_{p=1}^{m-1}(n+p)}{(M-1)!}\right] P_k^n$$
+$$h(n)=A_{k,m}\left[\dfrac{\prod_{p=1}^{m-1}(n+p)}{(m-1)!}\right] P_k^n$$
 
 ## Annexe
 
