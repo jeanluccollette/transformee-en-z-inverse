@@ -24,7 +24,7 @@ $$\dfrac{A_{k,2}}{(1-P_kz^{-1})^2} + \dfrac{A_{k,1}}{1-P_kz^{-1}}$$
 
 ## Méthode utilisée
 
-Voir la page Wikipédia [Décomposition en éléments simples](https://fr.wikipedia.org/wiki/D%C3%A9composition_en_%C3%A9l%C3%A9ments_simples#%C3%89l%C3%A9ments_simples_associ%C3%A9s_%C3%A0_un_p%C3%B4le_multiple) à la rubrique **Éléments simples associés à un pôle multiple**.
+La page Wikipédia [Décomposition en éléments simples](https://fr.wikipedia.org/wiki/D%C3%A9composition_en_%C3%A9l%C3%A9ments_simples#%C3%89l%C3%A9ments_simples_associ%C3%A9s_%C3%A0_un_p%C3%B4le_multiple) à la rubrique **Éléments simples associés à un pôle multiple**, donne le principe de la méthode.
 
 Le changement de variable envisagé dans cette méthode est plutôt de la forme $y = 1-P_k x$ avec $x = z^{-1}$ afin de conserver le principe d'utiliser les expressions en $z^{-1}$ sous la forme
 
