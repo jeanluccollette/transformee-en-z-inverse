@@ -28,7 +28,7 @@ Voir la page Wikipédia [Décomposition en éléments simples](https://fr.wikipe
 
 ## Le Notebook
 
-Le [Notebook](tzinv.ipynb) pour les pôles d'ordre 1 ou 2 est disponible sur ce dépôt.
+Le [Notebook](tzinv.ipynb) pour les pôles d'ordre 1 à 4 est disponible sur ce dépôt.
 
 Par ailleurs, on peut disposer aussi de [la version sur Google Colab](https://colab.research.google.com/drive/1lougOsX4DbZTJ-A5Ba6NEc-LAG60jZih?usp=sharing).
 
