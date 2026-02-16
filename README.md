@@ -28,14 +28,6 @@ Le [Notebook](tzinv.ipynb) pour les pôles d'ordre 1 ou 2 est disponible sur ce 
 
 Par ailleurs, on peut disposer aussi de [la version sur Google Colab](https://colab.research.google.com/drive/1lougOsX4DbZTJ-A5Ba6NEc-LAG60jZih?usp=sharing).
 
-Le [Notebook](tzinv_ordre1.ipynb) pour les pôles d'ordre 1 est disponible sur ce dépôt.
-
-Par ailleurs, on peut disposer aussi de [la version sur Google Colab](https://colab.research.google.com/drive/1apsHT_S6EJ6aIAlqmrPvxvE24gnwubkB?usp=drive_link).
-
-Le [Notebook](tzinv_ordre2.ipynb) pour les pôles d'ordre 1 ou 2 est disponible sur ce dépôt.
-
-Par ailleurs, on peut disposer aussi de [la version sur Google Colab](https://colab.research.google.com/drive/1-FxWG_sAFUHAgCftML5VYthL1JakQ7O5?usp=drive_link).
-
 ## Annexe
 
 La raison pour laquelle on envisage d'utiliser plutôt des expressions en $z^{-1}$ est liée au fait qu'elles permettent notamment d'accéder facilement à l'équation aux différence dans le domaine temporel.
