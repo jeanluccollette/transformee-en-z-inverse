@@ -36,7 +36,7 @@ Par ailleurs, on peut disposer aussi de [la version sur Google Colab](https://co
 
 La séquence $h(n)$ associé au terme
 
-$$A_{k,M}\dfrac{1}{(1-P_k z^{-1})^M}$$
+$\dfrac{$A_{k,M}}{(1-P_k z^{-1})^M}$$
 
 pour $M \geq 2$ est
 
