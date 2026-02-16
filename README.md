@@ -22,7 +22,7 @@ Il correspond au terme ci-dessous dans la décomposition en élément simple de 
 
 $$\dfrac{A_{k,2}}{(1-P_kz^{-1})^2} + \dfrac{A_{k,1}}{1-P_kz^{-1}}$$
 
-## Les Notebooks
+## Le Notebook
 
 Le [Notebook](tzinv.ipynb) pour les pôles d'ordre 1 ou 2 est disponible sur ce dépôt.
 
