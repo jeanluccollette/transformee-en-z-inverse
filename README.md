@@ -28,7 +28,7 @@ Voir la page Wikipédia [Décomposition en éléments simples](https://fr.wikipe
 
 Le changement de variable envisagé dans cette méthode est plutôt de la forme $y = 1-P_k x$ avec $x = z^{-1}$ afin de conserver le principe d'utiliser les expressions en $x = z^{-1}$.
 
-$$H(z)=\sum_{k=0}^{K-1} \dfrac{A_{k,m}}{(1-P_kz^{-1})^m}$$
+$$H(z)=\sum_{k=0}^{K-1} \sum_{m=1}^{M_k} \dfrac{A_{k,m}}{(1-P_kz^{-1})^m}$$
 
 ## Le Notebook
 
