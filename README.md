@@ -32,6 +32,10 @@ Le [Notebook](tzinv.ipynb) pour les pôles d'ordre 1 à 4 est disponible sur ce 
 
 Par ailleurs, on peut disposer aussi de [la version sur Google Colab](https://colab.research.google.com/drive/1lougOsX4DbZTJ-A5Ba6NEc-LAG60jZih?usp=sharing).
 
+## Conjecture
+
+La séquence $h(n)$ associé au terme $\dfrac{1}{(1-Pz^{-1})^K}$
+
 ## Annexe
 
 La raison pour laquelle on envisage d'utiliser plutôt des expressions en $z^{-1}$ est liée au fait qu'elles permettent notamment d'accéder facilement à l'équation aux différence dans le domaine temporel.
