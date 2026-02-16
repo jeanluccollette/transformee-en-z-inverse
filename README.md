@@ -36,7 +36,7 @@ Par ailleurs, on peut disposer aussi de [la version sur Google Colab](https://co
 
 La séquence $h(n)$ associé au terme $\dfrac{1}{(1-Pz^{-1})^K}$ est
 
-$$h(n)=\left[\prod_{k=1}^{K-1}(n+k)\right]P^n$$
+$$h(n)=\left[\prod_{k=1}^{K-1}(n+k)\right] P^n$$
 
 ## Annexe
 
