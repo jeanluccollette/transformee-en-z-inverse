@@ -30,13 +30,7 @@ Le changement de variable envisagé dans cette méthode est plutôt de la forme 
 
 $$H(z)=\sum_{k=0}^{K-1} \sum_{m=1}^{M_k} \dfrac{A_{k,m}}{(1-P_kz^{-1})^m}$$
 
-avec $M_k$ qui est l'ordre de multiplcité du pôle $P_k$ dans l'expression de $H(z) sous forme de fraction rationnelle en $z^{-1}$.
-
-## Le Notebook
-
-Le [Notebook](tzinv.ipynb) pour les pôles d'ordre 1 à 4 est disponible sur ce dépôt.
-
-Par ailleurs, on peut disposer aussi de [la version sur Google Colab](https://colab.research.google.com/drive/1lougOsX4DbZTJ-A5Ba6NEc-LAG60jZih?usp=sharing).
+avec $M_k$ qui est l'ordre de multiplcité du pôle $P_k$ dans l'expression de $H(z)$ sous forme de fraction rationnelle en $z^{-1}$.
 
 ## Conjecture utilisée
 
@@ -47,6 +41,12 @@ $$\dfrac{A_{k,m}}{(1-P_k z^{-1})^m}$$
 pour $m \geq 2$ est
 
 $$h(n)=A_{k,m}\left[\dfrac{\prod_{p=1}^{m-1}(n+p)}{(m-1)!}\right] P_k^n$$
+
+## Le Notebook
+
+Le [Notebook](tzinv.ipynb) pour les pôles d'ordre 1 à 4 est disponible sur ce dépôt.
+
+Par ailleurs, on peut disposer aussi de [la version sur Google Colab](https://colab.research.google.com/drive/1lougOsX4DbZTJ-A5Ba6NEc-LAG60jZih?usp=sharing).
 
 ## Annexe
 
