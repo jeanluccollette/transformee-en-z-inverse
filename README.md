@@ -32,7 +32,7 @@ Le [Notebook](tzinv.ipynb) pour les pôles d'ordre 1 à 4 est disponible sur ce 
 
 Par ailleurs, on peut disposer aussi de [la version sur Google Colab](https://colab.research.google.com/drive/1lougOsX4DbZTJ-A5Ba6NEc-LAG60jZih?usp=sharing).
 
-## Conjecture
+## Conjecture utilisée
 
 La séquence $h(n)$ associé au terme
 
@@ -40,7 +40,7 @@ $$\dfrac{1}{(1-Pz^{-1})^K}$$
 
 pour $K \geq 2$ est
 
-$$h(n)=\left[\prod_{k=1}^{K-1}(n+k)\right] P^n$$
+$$h(n)=\left[\dfrac{\prod_{k=1}^{K-1}(n+k)}{(K-1)!}\right] P^n$$
 
 ## Annexe
 
