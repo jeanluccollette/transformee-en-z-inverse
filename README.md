@@ -38,7 +38,7 @@ La séquence $h(n)$ associé au terme
 
 $$\dfrac{1}{(1-Pz^{-1})^K}$$
 
-pour $K \gt 2$ est
+pour $K \geq 2$ est
 
 $$h(n)=\left[\prod_{k=1}^{K-1}(n+k)\right] P^n$$
 
