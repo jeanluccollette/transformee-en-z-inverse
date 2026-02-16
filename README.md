@@ -36,11 +36,11 @@ Par ailleurs, on peut disposer aussi de [la version sur Google Colab](https://co
 
 La séquence $h(n)$ associé au terme
 
-$$\dfrac{1}{(1-Pz^{-1})^K}$$
+$$\dfrac{1}{(1-Pz^{-1})^M}$$
 
-pour $K \geq 2$ est
+pour $M \geq 2$ est
 
-$$h(n)=\left[\dfrac{\prod_{k=1}^{K-1}(n+k)}{(K-1)!}\right] P^n$$
+$$h(n)=\left[\dfrac{\prod_{m=1}^{M-1}(n+m)}{(M-1)!}\right] P^n$$
 
 ## Annexe
 
