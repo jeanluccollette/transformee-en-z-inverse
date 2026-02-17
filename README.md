@@ -42,6 +42,8 @@ pour $m \geq 2$ est
 
 $$h(n)=A_{k,m}\left[\dfrac{\prod_{p=1}^{m-1}(n+p)}{(m-1)!}\right] P_k^n$$
 
+La démonstration pour un ordre de pôle supérieur à 4 est à faire.
+
 ## Le Notebook
 
 Le [Notebook](tzinv.ipynb) pour les pôles d'ordre 1 à 4 est disponible sur ce dépôt.
